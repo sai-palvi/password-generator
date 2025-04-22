@@ -18,7 +18,7 @@ print(r"""
 * Password generator by Sai and Arnik                   *
 *                                                       *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-  Password generator by Sai and Arnik
+  
                             
 """)
 
